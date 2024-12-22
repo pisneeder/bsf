@@ -4,7 +4,7 @@ queue_on_teleport([[
 	until game:IsLoaded()
     print("IHS is #1 Shop")
     print("Thanks BITRAR for finding tree type so i didnt have to")
-	loadstring(game:HttpGet"https://raw.githubusercontent.com/666TranZit666/Interject/main/Blue%20Spruce%20Finder")()
+	loadstring(game:HttpGet"https://raw.githubusercontent.com/pisneeder/bsf/refs/heads/main/bsf")()
 ]])
 local Tree
 local module = loadstring(game:HttpGet"https://raw.githubusercontent.com/LeoKholYt/roblox/main/lk_serverhop.lua")()
